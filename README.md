@@ -1,5 +1,5 @@
 # README
-README
+
 I am Juan Escobar, 
 
 I am Bussines adminsitrator by profession and a software developer in training .  
